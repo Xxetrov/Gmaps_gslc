@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">currentLocation</string>
+
+    <string name="my_map_api_key">AIzaSyANDmIVbrOHYoV49-HtWijSo_-GWVHiUBY</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
